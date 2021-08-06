@@ -1,0 +1,134 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "studentName": "avc",
+      "rollNo": "1",
+      "address": "Banking"
+    },
+    {
+      "studentName": "Gayatri",
+      "rollNo": 2,
+      "address": "Bangalore",
+      "id": 2
+    },
+    {
+      "studentName": "Veda",
+      "rollNo": 3,
+      "address": "Bangalore",
+      "id": 3
+    },
+    {
+      "studentName": "Abc",
+      "rollNo": 4,
+      "address": "Bangalore",
+      "id": 4
+    },
+    {
+      "studentName": "Abc",
+      "rollNo": 4,
+      "address": "sfds",
+      "id": 5
+    },
+    {
+      "studentName": "Abc",
+      "rollNo": 4,
+      "address": "Bangalore",
+      "id": 6
+    },
+    {
+      "studentName": "fdg",
+      "rollNo": 5,
+      "address": "Bangalore",
+      "id": 7
+    },
+    {
+      "studentName": "fdg",
+      "rollNo": 4,
+      "address": "Bangalore",
+      "id": 8
+    },
+    {
+      "studentName": "dsgds",
+      "rollNo": 5,
+      "address": "xdfg",
+      "id": 9
+    }
+  ],
+  "qualificationGender": [
+    {
+      "gender": "",
+      "qf": "",
+      "id": 12
+    },
+    {
+      "gender": "",
+      "qf": "",
+      "id": 13
+    },
+    {
+      "gender": "",
+      "qf": "",
+      "id": 14
+    },
+    {
+      "gender": "Female",
+      "qf": "[object Object]",
+      "id": 15
+    },
+    {
+      "gender": "Female",
+      "qf": "12th",
+      "id": 16
+    },
+    {
+      "gender": "Female",
+      "qf": "12th",
+      "id": 17
+    },
+    {
+      "gender": "Female",
+      "qf": "Postgraduation",
+      "id": 18
+    },
+    {
+      "gender": "Female",
+      "qf": "12th",
+      "id": 19
+    },
+    {
+      "gender": "Female",
+      "qf": "12th",
+      "id": 20
+    },
+    {
+      "gender": "Female",
+      "qf": "12th",
+      "array": "{\"studentName\":\"gdfgd\",\"rollNo\":546,\"address\":\"xdfg\"}",
+      "id": 21
+    },
+    {
+      "gender": "Female",
+      "qf": "Graduation",
+      "array": "{\"studentName\":\"ryed\",\"rollNo\":546,\"address\":\"dryd\"}",
+      "id": 22
+    },
+    {
+      "gender": "Female",
+      "qf": "Graduation",
+      "array": "{\"studentName\":\"hdfgh\",\"rollNo\":7687,\"address\":\"xdfg\"}",
+      "id": 23
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}

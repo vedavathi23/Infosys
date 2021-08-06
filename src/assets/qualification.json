@@ -1,0 +1,20 @@
+{
+    "qualification": [
+      {
+        "id": 1,
+        "item": "avc",
+        "amount": "400",
+        "category": "Banking",
+        "location": "Bangalore",
+        "view": "yes"
+      },
+      {
+        "id": 2,
+        "item": "xyz",
+        "amount": 100,
+        "category": "Finance",
+        "location": "Bangalore",
+        "view": "yes"
+      }
+    ]
+  }

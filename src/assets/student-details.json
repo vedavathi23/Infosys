@@ -1,0 +1,19 @@
+{
+    "details": [
+      {
+        "id": 1,
+        "studentName": "avc",
+        "rollNo": "1",
+        "address": "Banking"
+        
+      }
+    ],
+    "qualification": [
+        {
+          "id": 1,
+          "gender": "avc",
+          "qualification": "Graduation"
+        
+        }
+      ]
+  }
